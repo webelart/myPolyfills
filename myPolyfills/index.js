@@ -55,6 +55,7 @@ module.exports = function () {
                     }
                 };
                 return result;
+                
             }
             return flatten(this, depth);
 
